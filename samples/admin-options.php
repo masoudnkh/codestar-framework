@@ -2290,7 +2290,7 @@ CSF::createSection( $prefix, array(
       'line_height'        => true,
       'letter_spacing'     => true,
       'text_align'         => true,
-      'text-transform'     => true,
+      'text_transform'     => true,
       'color'              => true,
       'subset'             => true,
       'backup_font_family' => true,
